@@ -12,7 +12,7 @@
 
 <!-- 图片 -->
 
-<div align="center" ><img order-radius="100px" src="https://xsxtk.oss-cn-beijing.aliyuncs.com/img/CC4B6E24C241768D31C88C8ABEC81E6E.jpg"width="50%" height="50%"/></div>
+<div align="center" ><img order-radius="100px" src="https://xsxtk.oss-cn-beijing.aliyuncs.com/img/3C0124242A124074362F732AFEE0AE11.jpg"width="50%" height="50%"/></div>
 
 <br>
 
